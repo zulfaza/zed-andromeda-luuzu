@@ -1,0 +1,7 @@
+id = "andromeda-luuzu"
+name = "Andromeda Luuzu"
+version = "0.0.1"
+schema_version = 1
+authors = ["Luuzu", "zulfaza <zulfazamakarima@gmail.com>"]
+description = "Andromeda Mariana theme, Luuzu variant"
+repository = "https://github.com/zulfaza/zed-andromeda-luuzu"
